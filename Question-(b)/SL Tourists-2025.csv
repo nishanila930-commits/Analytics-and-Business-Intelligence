@@ -1,0 +1,193 @@
+SO3,Country,Total
+AFG,Afghanistan,60
+ALB,Albania,128
+DZA,Algeria,253
+AND,Andorra,110
+AGO,Angola,13
+ATG,Antigua and Barbuda,18
+ARG,Argentina,621
+ARM,Armenia,1233
+AUS,Australia,68275
+AUT,Austria,12216
+AZE,Azerbaijan,922
+BHS,Bahamas,16
+BHR,Bahrain,987
+BGD,Bangladesh,40485
+BRB,Barbados,14
+BLR,Belarus,5750
+BEL,Belgium,15322
+BLZ,Belize,16
+BEN,Benin,15
+BTN,Bhutan,417
+BOL,Bolivia,18
+BIH,Bosnia and Herzegovina,248
+BWA,Botswana,28
+BRA,Brazil,1311
+BRN,Brunei Darussalam,62
+BGR,Bulgaria,2756
+BFA,Burkina Faso,11
+BDI,Burundi,3
+KHM,Cambodia,1008
+CMR,Cameroon,11
+CAN,Canada,33911
+CPV,Cape Verde,8
+CAF,Central African Republic,2
+TCD,Chad,10
+CHL,Chile,451
+CHN,China,91063
+COG,Republic of Congo,11
+COL,Colombia,463
+COM,Comoros,59
+COD,Democratic Republic of Congo,21
+CRI,Costa Rica,78
+CIV,Cote d'Ivoire,10
+HRV,Croatia,1327
+CUB,Cuba,27
+CYP,Cyprus,933
+CZE,Czech Republic,12837
+DNK,Denmark,12714
+DJI,Djibouti,10
+DMA,Dominica,106
+DOM,Dominican Republic,22
+ECU,Ecuador,84
+EGY,Egypt,2861
+SLV,El Salvador,13
+GNQ,Equatorial Guinea,1
+ERI,Eritrea,8
+EST,Estonia,2798
+ETH,Ethiopia,146
+FJI,Fiji,133
+FIN,Finland,2902
+FRA,France,83011
+GAB,Gabon,1
+GMB,The Gambia,12
+GEO,Georgia,493
+DEU,Germany,97644
+GHA,Ghana,52
+GRC,Greece,2815
+GRD,Grenada,26
+GTM,Guatemala,47
+GIN,Guinea,9
+GNB,Guinea-Bissau,3
+GUY,Guyana,26
+HTI,Haiti,7
+HND,Honduras,16
+HUN,Hungary,4356
+ISL,Iceland,209
+IND,India,325595
+IDN,Indonesia,3249
+IRN,Iran,6614
+IRQ,Iraq,963
+IRL,Ireland,7029
+ISR,Israel,15417
+ITA,Italy,36690
+JAM,Jamaica,31
+JPN,Japan,24662
+JOR,Jordan,1922
+KAZ,Kazakhstan,7848
+KEN,Kenya,835
+XKX,Kosovo,43
+KWT,Kuwait,1387
+KGZ,Kyrgyzstan,561
+LAO,Lao People's Democratic Republic,179
+LVA,Latvia,2471
+LBN,Lebanon,2249
+LSO,Lesotho,8
+LBR,Liberia,6
+LBY,Libya,38
+LIE,Liechtenstein,86
+LTU,Lithuania,4923
+LUX,Luxembourg,606
+MKD,Macedonia,117
+MDG,Madagascar,146
+MWI,Malawi,32
+MYS,Malaysia,14901
+MDV,Maldives,24211
+MLI,Mali,11
+MLT,Malta,753
+MHL,Marshall Islands,1
+MRT,Mauritania,11
+MUS,Mauritius,532
+MEX,Mexico,708
+MDA,Moldova,429
+MCO,Monaco,16
+MNG,Mongolia,132
+MNE,Montenegro,80
+MAR,Morocco,759
+MOZ,Mozambique,21
+MMR,Myanmar,1692
+NAM,Namibia,26
+NRU,Nauru,1
+NPL,Nepal,3677
+NLD,Netherlands,47777
+NZL,New Zealand,8211
+NIC,Nicaragua,15
+NER,Niger,3
+NGA,Nigeria,76
+NOR,Norway,9227
+OMN,Oman,1904
+PAK,Pakistan,15835
+PLW,Palau,1
+PSE,Palestinian Territories,424
+PAN,Panama,20
+PNG,Papua New Guinea,101
+PRY,Paraguay,25
+PER,Peru,189
+PHL,Philippines,4458
+POL,Poland,32952
+PRT,Portugal,5309
+QAT,Qatar,699
+ROU,Romania,4035
+RUS,Russian Federation,118916
+RWA,Rwanda,30
+KNA,Saint Kitts and Nevis,111
+LCA,Saint Lucia,24
+BLM,Saint Barthelemy,1
+VCT,Saint Vincent and the Grenadines,9
+WSM,Samoa,5
+SMR,San Marino,21
+STP,Sao Tome and Principe,1
+SAU,Saudi Arabia,4313
+SEN,Senegal,38
+SRB,Serbia,1555
+SYC,Seychelles,2371
+SLE,Sierra Leone,19
+SGP,Singapore,9764
+SVK,Slovakia,4796
+SVN,Slovenia,2571
+SLB,Solomon Islands,6
+SOM,Somalia,52
+ZAF,South Africa,3218
+KOR,South Korea,8111
+SSD,South Sudan,5
+ESP,Spain,29595
+SDN,Sudan,834
+SUR,Suriname,18
+SWZ,Swaziland,3
+SWE,Sweden,8125
+CHE,Switzerland,22639
+SYR,Syrian Arab Republic,3
+TJK,Tajikistan,174
+TZA,Tanzania,384
+THA,Thailand,5808
+TLS,Timor-Leste,17
+TGO,Togo,6
+TON,Tonga,3
+TTO,Trinidad and Tobago,58
+TUN,Tunisia,548
+TUR,Turkey,5662
+TKM,Turkmenistan,108
+UGA,Uganda,143
+UKR,Ukraine,5788
+ARE,United Arab Emirates,3831
+GBR,United Kingdom,151141
+USA,United States,44605
+URY,Uruguay,165
+UZB,Uzbekistan,594
+VUT,Vanuatu,33
+VAT,Vatican City,1
+VEN,Venezuela,96
+VNM,Vietnam,2681
+YEM,Yemen,372
+ZMB,Zambia,52
+ZWE,Zimbabwe,107
